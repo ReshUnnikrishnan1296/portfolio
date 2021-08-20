@@ -1,0 +1,8 @@
+{'type': 'createTable', 'table': 'Users', 'columns': {'id': 'int', 'name': 'varchar'}, 'keys': {'pk': '1', 'fk': ' ', 'fk_table': ' ', 'fk_column': ' '}, 'server': '3'}
+{'type': 'createTable', 'table': 'Users', 'columns': {'id': 'int', 'name': 'varchar'}, 'keys': {'pk': '1', 'fk': ' ', 'fk_table': ' ', 'fk_column': ' '}, 'server': '3'}
+{'type': 'createTable', 'table': 'Student', 'columns': {'student_id': 'int', 'student_name': 'varchar', 'student_course': 'varchar'}, 'keys': {'pk': '1', 'fk': ' ', 'fk_table': ' ', 'fk_column': ' '}, 'server': '3'}
+{'type': 'createTable', 'table': 'Student_attendance', 'columns': {'attnd_id': 'int', 'student_id': 'int', 'user_id': 'int'}, 'keys': {'pk': '1', 'fk': '2', 'fk_table': 'Student', 'fk_column': 'student_id'}, 'server': '3'}
+{'type': 'createTable', 'table': 'Professor', 'columns': {'prof_id': 'int', 'department': 'varchar', 'emp_id': 'int'}, 'keys': {'pk': '1', 'fk': '3', 'fk_table': 'Employee', 'fk_column': 'emp_id'}, 'server': '1'}
+{'type': 'createTable', 'table': 'Tests', 'columns': {'id': 'int', 'name': 'varchar', 'type': 'varchar'}, 'keys': {'pk': '1', 'fk': ' ', 'fk_table': ' ', 'fk_column': ' '}, 'server': '3'}
+{'type': 'createTable', 'table': 'University', 'columns': {'uni_id': 'int', 'uni_name': 'varchar', 'uni_location': 'varchar'}, 'keys': {'pk': '1', 'fk': ' ', 'fk_table': ' ', 'fk_column': ' '}, 'server': '1'}
+{'type': 'createTable', 'table': 'Person', 'columns': {'person_id': 'int', 'person_name': 'varchar', 'type': "varchar'"}, 'keys': {'pk': '1', 'fk': '2', 'fk_table': 'student', 'fk_column': '1'}, 'server': '3'}

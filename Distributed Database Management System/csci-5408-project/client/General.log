@@ -1,0 +1,205 @@
+2021-04-05 20:28:05,450 INFO Processing time for the query : select * from users is 34187678067.962494 ns
+2021-04-05 20:28:05,450 INFO Processing time for the query : select * from users is 34187678067.962494 ns
+2021-04-05 20:28:38,665 INFO Processing time for the query : select * from Users is 67403367234.6627 ns
+2021-04-05 20:28:38,665 INFO Processing time for the query : select * from Users is 67403367234.6627 ns
+2021-04-06 22:49:11,258 INFO Processing time for the query : insert into Users values (1,"user1") is 72622311329.44963 ns
+2021-04-06 22:49:11,258 INFO Processing time for the query : insert into Users values (1,"user1") is 72622311329.44963 ns
+2021-04-06 22:49:53,022 INFO Processing time for the query : insert into Users values (2,"user2") is 114386532487.68892 ns
+2021-04-06 22:49:53,022 INFO Processing time for the query : insert into Users values (2,"user2") is 114386532487.68892 ns
+2021-04-06 22:51:52,825 INFO Processing time for the query : insert into Student values (1,"student1","asdc") is 234189431867.87094 ns
+2021-04-06 22:51:52,825 INFO Processing time for the query : insert into Student values (1,"student1","asdc") is 234189431867.87094 ns
+2021-04-06 22:52:21,756 INFO Processing time for the query : insert into Student values (2,"student2","dw") is 263120794038.97714 ns
+2021-04-06 22:52:21,756 INFO Processing time for the query : insert into Student values (2,"student2","dw") is 263120794038.97714 ns
+2021-04-06 23:18:15,613 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:18:15,614 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:18:15,615 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:18:16,865 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:18:16,868 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:18:16,869 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:18:21,040 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:18:21,041 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:18:21,042 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:18:21,239 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:18:21,239 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:18:21,240 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:19:18,645 INFO Test
+2021-04-06 23:19:18,646 INFO State of the database : Table name -> Person number of rows : 0
+2021-04-06 23:19:18,647 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:19:18,648 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:19:18,649 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:21:07,112 INFO State of the database : Table name -> Person number of rows : 0
+2021-04-06 23:21:07,113 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:21:07,113 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:21:07,114 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:21:11,269 INFO State of the database : Table name -> Person number of rows : 0
+2021-04-06 23:21:11,270 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:21:11,270 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:21:11,271 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:21:11,474 INFO State of the database : Table name -> Person number of rows : 0
+2021-04-06 23:21:11,475 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:21:11,477 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:21:11,478 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:22:00,289 INFO Processing time for the query : insert into User values (5,"user5") is 38431794763.72463 ns
+2021-04-06 23:22:00,289 INFO Processing time for the query : insert into User values (5,"user5") is 38431794763.72463 ns
+2021-04-06 23:23:06,136 INFO State of the database : Table name -> Person number of rows : 0
+2021-04-06 23:23:06,138 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:23:06,138 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:23:06,138 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:23:06,330 INFO State of the database : Table name -> Person number of rows : 0
+2021-04-06 23:23:06,331 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:23:06,331 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:23:06,332 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-06 23:23:33,994 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-06 23:23:33,997 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-06 23:23:33,998 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-07 20:29:45,759 INFO Processing time for the query : select * from Employee is 112651768288.00253 ns
+2021-04-07 20:29:45,759 INFO Processing time for the query : select * from Employee is 112651768288.00253 ns
+2021-04-07 21:00:19,629 INFO Processing time for the query : select * from Employee is 167468946733.20215 ns
+2021-04-07 21:00:19,629 INFO Processing time for the query : select * from Employee is 167468946733.20215 ns
+2021-04-07 21:00:59,318 INFO Processing time for the query : insert into Employee values (1,"Jay","CS") is 207158366293.44775 ns
+2021-04-07 21:00:59,318 INFO Processing time for the query : insert into Employee values (1,"Jay","CS") is 207158366293.44775 ns
+2021-04-07 21:01:39,593 INFO Processing time for the query : select * from Employee is 247433289153.31152 ns
+2021-04-07 21:01:39,593 INFO Processing time for the query : select * from Employee is 247433289153.31152 ns
+2021-04-07 21:02:00,191 INFO Processing time for the query : select * from Employee where id=1 is 268031599332.66183 ns
+2021-04-07 21:02:00,191 INFO Processing time for the query : select * from Employee where id=1 is 268031599332.66183 ns
+2021-04-07 21:11:18,482 INFO Processing time for the query : select * from Employee where emp_id=1 is 826322762174.4147 ns
+2021-04-07 21:11:18,482 INFO Processing time for the query : select * from Employee where emp_id=1 is 826322762174.4147 ns
+2021-04-07 21:15:54,231 INFO Processing time for the query : update Employee set emp_name="John" where emp_id=1 is 1102071576398.6152 ns
+2021-04-07 21:15:54,231 INFO Processing time for the query : update Employee set emp_name="John" where emp_id=1 is 1102071576398.6152 ns
+2021-04-07 21:20:22,009 INFO Processing time for the query : update Employee set emp_name=john where emp_id=1 is 44063617056.56068 ns
+2021-04-07 21:20:22,009 INFO Processing time for the query : update Employee set emp_name=john where emp_id=1 is 44063617056.56068 ns
+2021-04-07 21:24:26,865 INFO Processing time for the query : update Employee set emp_name=john where emp_name=jay is 288919553612.13367 ns
+2021-04-07 21:24:26,865 INFO Processing time for the query : update Employee set emp_name=john where emp_name=jay is 288919553612.13367 ns
+2021-04-07 21:39:08,908 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-07 21:39:08,911 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-07 21:39:08,911 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-07 21:39:09,145 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-07 21:39:09,146 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-07 21:39:09,146 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-07 21:40:33,592 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-07 21:40:33,594 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-07 21:40:33,594 INFO State of the database : Table name -> Tests number of rows : 0
+2021-04-07 21:40:33,595 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-07 21:41:37,158 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-07 21:41:37,159 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-07 21:41:37,170 INFO State of the database : Table name -> Tests number of rows : 1
+2021-04-07 21:41:37,171 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-07 21:41:37,174 INFO Processing time for the query : insert into Tests values (1,"abc","normal") is 56088613346.02788 ns
+2021-04-07 21:41:37,174 INFO Processing time for the query : insert into Tests values (1,"abc","normal") is 56088613346.02788 ns
+2021-04-07 21:42:54,488 INFO Processing time for the query : update Tests set type=abnormal where id=1 is 133402484268.67969 ns
+2021-04-07 21:42:54,488 INFO Processing time for the query : update Tests set type=abnormal where id=1 is 133402484268.67969 ns
+2021-04-07 21:48:27,366 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-07 21:48:27,367 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-07 21:48:27,389 INFO State of the database : Table name -> Tests number of rows : 1
+2021-04-07 21:48:27,392 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-07 21:48:27,396 INFO Processing time for the query : update Tests set type=abnormal where id=1 is 42030184060.0658 ns
+2021-04-07 21:48:27,396 INFO Processing time for the query : update Tests set type=abnormal where id=1 is 42030184060.0658 ns
+2021-04-07 21:53:25,014 INFO Processing time for the query : select * from Employee is 339648360160.93884 ns
+2021-04-07 21:53:25,014 INFO Processing time for the query : select * from Employee is 339648360160.93884 ns
+2021-04-07 21:54:25,728 INFO Processing time for the query : select * from Employee where emp_id=1 is 400362912500.18396 ns
+2021-04-07 21:54:25,728 INFO Processing time for the query : select * from Employee where emp_id=1 is 400362912500.18396 ns
+2021-04-07 21:55:07,508 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-07 21:55:07,510 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-07 21:55:07,512 INFO State of the database : Table name -> Tests number of rows : 0
+2021-04-07 21:55:07,513 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-07 21:55:07,516 INFO Processing time for the query : delete from Tests where id=1 is 442151287259.91656 ns
+2021-04-07 21:55:07,516 INFO Processing time for the query : delete from Tests where id=1 is 442151287259.91656 ns
+2021-04-07 21:57:04,758 INFO Processing time for the query : insert into Employee values (2,"Ram","CS","Senior Analyst") is 559392913841.1986 ns
+2021-04-07 21:57:04,758 INFO Processing time for the query : insert into Employee values (2,"Ram","CS","Senior Analyst") is 559392913841.1986 ns
+2021-04-07 21:57:15,862 INFO Processing time for the query : select * from Employee is 570496683730.072 ns
+2021-04-07 21:57:15,862 INFO Processing time for the query : select * from Employee is 570496683730.072 ns
+2021-04-07 22:04:01,730 INFO Processing time for the query : delete from Employee where emp_id=1 is 976364035624.159 ns
+2021-04-07 22:04:01,730 INFO Processing time for the query : delete from Employee where emp_id=1 is 976364035624.159 ns
+2021-04-07 22:04:14,225 INFO Processing time for the query : delete from Employee where emp_id=2 is 988859085312.0758 ns
+2021-04-07 22:04:14,225 INFO Processing time for the query : delete from Employee where emp_id=2 is 988859085312.0758 ns
+2021-04-07 22:05:46,689 INFO Processing time for the query : insert into Employee values (1,Jay,768546756,TA) is 1081323922519.3544 ns
+2021-04-07 22:05:46,689 INFO Processing time for the query : insert into Employee values (1,Jay,768546756,TA) is 1081323922519.3544 ns
+2021-04-07 22:06:06,767 INFO Processing time for the query : select * from Employee is 1101401855201.2954 ns
+2021-04-07 22:06:06,767 INFO Processing time for the query : select * from Employee is 1101401855201.2954 ns
+2021-04-07 22:15:52,812 INFO Processing time for the query : insert into Employee values (2,Reshma,99847543,SeniorAnalyst) is 99798680500.66866 ns
+2021-04-07 22:15:52,812 INFO Processing time for the query : insert into Employee values (2,Reshma,99847543,SeniorAnalyst) is 99798680500.66866 ns
+2021-04-07 22:16:13,001 INFO Processing time for the query : select * from Employee is 119988301280.47885 ns
+2021-04-07 22:16:13,001 INFO Processing time for the query : select * from Employee is 119988301280.47885 ns
+2021-04-07 22:17:36,179 INFO Processing time for the query : update Employee set job_position=TechinicalAnalyst where emp_id=1 is 203165298197.28772 ns
+2021-04-07 22:17:36,179 INFO Processing time for the query : update Employee set job_position=TechinicalAnalyst where emp_id=1 is 203165298197.28772 ns
+2021-04-07 22:17:53,553 INFO Processing time for the query : select * from Employee is 220540505679.92505 ns
+2021-04-07 22:17:53,553 INFO Processing time for the query : select * from Employee is 220540505679.92505 ns
+2021-04-07 22:19:54,589 INFO Processing time for the query : select * from Employee is 341575620658.8943 ns
+2021-04-07 22:19:54,589 INFO Processing time for the query : select * from Employee is 341575620658.8943 ns
+2021-04-07 22:20:28,972 INFO Processing time for the query : Update Employee set job_position=TechnicalAnalyst where emp_id=1 is 375959235924.50824 ns
+2021-04-07 22:20:28,972 INFO Processing time for the query : Update Employee set job_position=TechnicalAnalyst where emp_id=1 is 375959235924.50824 ns
+2021-04-07 22:20:40,038 INFO Processing time for the query : select * from Employee is 387024992713.42676 ns
+2021-04-07 22:20:40,038 INFO Processing time for the query : select * from Employee is 387024992713.42676 ns
+2021-04-07 22:21:32,913 INFO Processing time for the query : insert into Employee values (2,Kim,654485764,TA) is 439899219460.5768 ns
+2021-04-07 22:21:32,913 INFO Processing time for the query : insert into Employee values (2,Kim,654485764,TA) is 439899219460.5768 ns
+2021-04-07 22:21:43,847 INFO Processing time for the query : select * from Employee is 450832990549.6249 ns
+2021-04-07 22:21:43,847 INFO Processing time for the query : select * from Employee is 450832990549.6249 ns
+2021-04-07 22:23:01,844 INFO Processing time for the query : update Employee set emp_name=Koel where emp_id=1 is 528831303471.62775 ns
+2021-04-07 22:23:01,844 INFO Processing time for the query : update Employee set emp_name=Koel where emp_id=1 is 528831303471.62775 ns
+2021-04-07 22:23:10,252 INFO Processing time for the query : select * from Employee is 537237959663.21295 ns
+2021-04-07 22:23:10,252 INFO Processing time for the query : select * from Employee is 537237959663.21295 ns
+2021-04-07 22:23:34,309 INFO Processing time for the query : delete from Employee where emp_id=3 is 561295038939.1615 ns
+2021-04-07 22:23:34,309 INFO Processing time for the query : delete from Employee where emp_id=3 is 561295038939.1615 ns
+2021-04-07 22:24:08,905 INFO Processing time for the query : insert into Employee values (3,Jim,687454343,Manager) is 595891977804.5627 ns
+2021-04-07 22:24:08,905 INFO Processing time for the query : insert into Employee values (3,Jim,687454343,Manager) is 595891977804.5627 ns
+2021-04-07 22:29:45,718 INFO Processing time for the query : insert into Employee values (4,John,75846468,TA) is 76625254623.84079 ns
+2021-04-07 22:29:45,718 INFO Processing time for the query : insert into Employee values (4,John,75846468,TA) is 76625254623.84079 ns
+2021-04-07 22:30:09,137 INFO Processing time for the query : select * from Employee is 100044764100.41002 ns
+2021-04-07 22:30:09,137 INFO Processing time for the query : select * from Employee is 100044764100.41002 ns
+2021-04-07 22:32:24,066 INFO Processing time for the query : select * from Student is 22926397477.535873 ns
+2021-04-07 22:32:24,066 INFO Processing time for the query : select * from Student is 22926397477.535873 ns
+2021-04-07 22:33:17,914 INFO Processing time for the query : insert into Student values(1,Jack,23,FCS,301) is 76774577523.69528 ns
+2021-04-07 22:33:17,914 INFO Processing time for the query : insert into Student values(1,Jack,23,FCS,301) is 76774577523.69528 ns
+2021-04-07 22:33:36,500 INFO Processing time for the query : insert into Student values (1,Jack,23,FCS,301) is 95360530005.09518 ns
+2021-04-07 22:33:36,500 INFO Processing time for the query : insert into Student values (1,Jack,23,FCS,301) is 95360530005.09518 ns
+2021-04-07 22:34:06,392 INFO Processing time for the query : select * from Employee is 125252537175.20634 ns
+2021-04-07 22:34:06,392 INFO Processing time for the query : select * from Employee is 125252537175.20634 ns
+2021-04-07 22:34:32,879 INFO Processing time for the query : select * from Student is 151738906448.7489 ns
+2021-04-07 22:34:32,879 INFO Processing time for the query : select * from Student is 151738906448.7489 ns
+2021-04-07 22:35:12,404 INFO Processing time for the query : insert into Student values (1,Kim,23,FCS,324) is 191264192809.2038 ns
+2021-04-07 22:35:12,404 INFO Processing time for the query : insert into Student values (1,Kim,23,FCS,324) is 191264192809.2038 ns
+2021-04-07 22:35:49,867 INFO Processing time for the query : insert into Student values(1,"Jack",23,"FCS",301) is 228727759771.74893 ns
+2021-04-07 22:35:49,867 INFO Processing time for the query : insert into Student values(1,"Jack",23,"FCS",301) is 228727759771.74893 ns
+2021-04-07 22:36:01,468 INFO Processing time for the query : insert into Student values (1,Jack,23,FCS,301) is 240327572360.14597 ns
+2021-04-07 22:36:01,468 INFO Processing time for the query : insert into Student values (1,Jack,23,FCS,301) is 240327572360.14597 ns
+2021-04-07 22:37:56,195 INFO Processing time for the query : insert into University values (1,Dalhousie,Halifax) is 39120637361.36653 ns
+2021-04-07 22:37:56,195 INFO Processing time for the query : insert into University values (1,Dalhousie,Halifax) is 39120637361.36653 ns
+2021-04-07 22:41:21,898 INFO Processing time for the query : insert into University values (2,IIT,India) is 91579906508.8861 ns
+2021-04-07 22:41:21,898 INFO Processing time for the query : insert into University values (2,IIT,India) is 91579906508.8861 ns
+2021-04-07 22:41:59,731 INFO Processing time for the query : select * from University is 129412328171.04564 ns
+2021-04-07 22:41:59,731 INFO Processing time for the query : select * from University is 129412328171.04564 ns
+2021-04-07 22:44:34,202 INFO Processing time for the query : update University set uni_name=NIT where uni_id=2 is 283884584916.5694 ns
+2021-04-07 22:44:34,202 INFO Processing time for the query : update University set uni_name=NIT where uni_id=2 is 283884584916.5694 ns
+2021-04-07 22:44:52,366 INFO Processing time for the query : select * from University is 302047887198.4245 ns
+2021-04-07 22:44:52,366 INFO Processing time for the query : select * from University is 302047887198.4245 ns
+2021-04-07 22:45:34,449 INFO Processing time for the query : delete from University where uni_id=2 is 344131205656.3153 ns
+2021-04-07 22:45:34,449 INFO Processing time for the query : delete from University where uni_id=2 is 344131205656.3153 ns
+2021-04-07 22:45:54,858 INFO Processing time for the query : select * from University is 364540304835.92883 ns
+2021-04-07 22:45:54,858 INFO Processing time for the query : select * from University is 364540304835.92883 ns
+2021-04-07 22:54:58,922 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-07 22:54:58,922 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-07 22:54:58,923 INFO State of the database : Table name -> Tests number of rows : 0
+2021-04-07 22:54:58,923 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-07 22:54:59,137 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-07 22:54:59,137 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-07 22:54:59,138 INFO State of the database : Table name -> Tests number of rows : 0
+2021-04-07 22:54:59,138 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-07 22:56:15,003 INFO Processing time for the query : select * from University is 66679383633.775154 ns
+2021-04-07 22:56:15,003 INFO Processing time for the query : select * from University is 66679383633.775154 ns
+2021-04-07 22:58:11,385 INFO Processing time for the query : select * from University is 23386944077.07531 ns
+2021-04-07 22:58:11,385 INFO Processing time for the query : select * from University is 23386944077.07531 ns
+2021-04-07 23:03:55,528 INFO Processing time for the query : select * from University is 367530807832.9231 ns
+2021-04-07 23:03:55,528 INFO Processing time for the query : select * from University is 367530807832.9231 ns
+2021-04-11 20:53:27,448 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-11 20:53:27,449 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-11 20:53:27,450 INFO State of the database : Table name -> Tests number of rows : 0
+2021-04-11 20:53:27,458 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-11 20:53:27,754 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-11 20:53:27,754 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-11 20:53:27,755 INFO State of the database : Table name -> Tests number of rows : 0
+2021-04-11 20:53:27,755 INFO State of the database : Table name -> Users number of rows : 2
+2021-04-11 20:54:57,862 INFO State of the database : Table name -> Person number of rows : 0
+2021-04-11 20:54:57,863 INFO State of the database : Table name -> Student number of rows : 2
+2021-04-11 20:54:57,863 INFO State of the database : Table name -> Student_attendance number of rows : 0
+2021-04-11 20:54:57,863 INFO State of the database : Table name -> Tests number of rows : 0
+2021-04-11 20:54:57,864 INFO State of the database : Table name -> Users number of rows : 2

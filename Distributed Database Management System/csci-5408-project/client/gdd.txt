@@ -1,0 +1,8 @@
+Course=2
+Student=2
+Employee=1
+Professor=1
+User=2
+Tests=3
+University=1
+Person=3

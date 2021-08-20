@@ -1,0 +1,4 @@
+{'type': 'createTable', 'table': 'Users', 'columns': {'id': 'int', 'name': 'varchar'}, 'keys': {'pk': '1', 'fk': ' ', 'fk_table': ' ', 'fk_column': ' '}, 'server': '3'}
+{'type': 'createTable', 'table': 'Users', 'columns': {'id': 'int', 'name': 'varchar'}, 'keys': {'pk': '1', 'fk': ' ', 'fk_table': ' ', 'fk_column': ' '}, 'server': '3'}
+{'type': 'createTable', 'table': 'Student', 'columns': {'student_id': 'int', 'student_name': 'varchar', 'student_course': 'varchar'}, 'keys': {'pk': '1', 'fk': ' ', 'fk_table': ' ', 'fk_column': ' '}, 'server': '3'}
+{'type': 'createTable', 'table': 'Student_attendance', 'columns': {'attnd_id': 'int', 'student_id': 'int', 'user_id': 'int'}, 'keys': {'pk': '1', 'fk': '2', 'fk_table': 'Student', 'fk_column': 'student_id'}, 'server': '3'}

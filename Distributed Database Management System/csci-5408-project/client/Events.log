@@ -1,0 +1,273 @@
+2021-04-05 20:28:03,299 INFO User query : select * from users
+2021-04-05 20:28:03,299 INFO User query : select * from users
+2021-04-05 20:28:03,300 INFO User query : select * from users
+2021-04-05 20:28:03,300 INFO User query : select * from users
+2021-04-05 20:28:36,599 INFO User query : select * from Users
+2021-04-05 20:28:36,599 INFO User query : select * from Users
+2021-04-05 20:28:36,599 INFO User query : select * from Users
+2021-04-05 20:28:36,599 INFO User query : select * from Users
+2021-04-06 22:49:09,185 INFO User query : insert into Users values (1,"user1")
+2021-04-06 22:49:09,185 INFO User query : insert into Users values (1,"user1")
+2021-04-06 22:49:09,185 INFO User query : insert into Users values (1,"user1")
+2021-04-06 22:49:09,185 INFO User query : insert into Users values (1,"user1")
+2021-04-06 22:49:50,946 INFO User query : insert into Users values (2,"user2")
+2021-04-06 22:49:50,946 INFO User query : insert into Users values (2,"user2")
+2021-04-06 22:49:50,946 INFO User query : insert into Users values (2,"user2")
+2021-04-06 22:49:50,946 INFO User query : insert into Users values (2,"user2")
+2021-04-06 22:51:50,764 INFO User query : insert into Student values (1,"student1","asdc")
+2021-04-06 22:51:50,764 INFO User query : insert into Student values (1,"student1","asdc")
+2021-04-06 22:51:50,764 INFO User query : insert into Student values (1,"student1","asdc")
+2021-04-06 22:51:50,764 INFO User query : insert into Student values (1,"student1","asdc")
+2021-04-06 22:52:19,658 INFO User query : insert into Student values (2,"student2","dw")
+2021-04-06 22:52:19,658 INFO User query : insert into Student values (2,"student2","dw")
+2021-04-06 22:52:19,658 INFO User query : insert into Student values (2,"student2","dw")
+2021-04-06 22:52:19,658 INFO User query : insert into Student values (2,"student2","dw")
+2021-04-06 23:19:18,644 INFO Table name : Person created successfully
+2021-04-06 23:21:58,132 INFO User query : insert into User values (5,"user5")
+2021-04-06 23:21:58,132 INFO User query : insert into User values (5,"user5")
+2021-04-06 23:21:58,132 INFO User query : insert into User values (5,"user5")
+2021-04-06 23:21:58,132 INFO User query : insert into User values (5,"user5")
+2021-04-06 23:23:33,991 INFO Table name : Person deleted successfully
+2021-04-07 20:29:20,147 INFO User query : select * from  Employee
+2021-04-07 20:29:20,147 INFO User query : select * from  Employee
+2021-04-07 20:29:45,068 INFO User query : select * from Employee
+2021-04-07 20:29:45,068 INFO User query : select * from Employee
+2021-04-07 20:29:45,068 INFO User query : select * from Employee
+2021-04-07 20:29:45,068 INFO User query : select * from Employee
+2021-04-07 20:30:31,326 INFO User query : select * from User
+2021-04-07 20:30:31,326 INFO User query : select * from User
+2021-04-07 20:30:31,326 INFO User query : select * from User
+2021-04-07 20:30:31,326 INFO User query : select * from User
+2021-04-07 21:00:18,956 INFO User query : select * from Employee
+2021-04-07 21:00:18,956 INFO User query : select * from Employee
+2021-04-07 21:00:18,958 INFO User query : select * from Employee
+2021-04-07 21:00:18,958 INFO User query : select * from Employee
+2021-04-07 21:00:58,712 INFO User query : insert into Employee values (1,"Jay","CS")
+2021-04-07 21:00:58,712 INFO User query : insert into Employee values (1,"Jay","CS")
+2021-04-07 21:00:58,712 INFO User query : insert into Employee values (1,"Jay","CS")
+2021-04-07 21:00:58,712 INFO User query : insert into Employee values (1,"Jay","CS")
+2021-04-07 21:01:38,848 INFO User query : select * from Employee
+2021-04-07 21:01:38,848 INFO User query : select * from Employee
+2021-04-07 21:01:38,848 INFO User query : select * from Employee
+2021-04-07 21:01:38,848 INFO User query : select * from Employee
+2021-04-07 21:01:59,498 INFO User query : select * from Employee where id=1
+2021-04-07 21:01:59,498 INFO User query : select * from Employee where id=1
+2021-04-07 21:01:59,498 INFO User query : select * from Employee where id=1
+2021-04-07 21:01:59,498 INFO User query : select * from Employee where id=1
+2021-04-07 21:11:17,745 INFO User query : select * from Employee where emp_id=1
+2021-04-07 21:11:17,745 INFO User query : select * from Employee where emp_id=1
+2021-04-07 21:11:17,745 INFO User query : select * from Employee where emp_id=1
+2021-04-07 21:11:17,745 INFO User query : select * from Employee where emp_id=1
+2021-04-07 21:15:53,544 INFO User query : update Employee set emp_name="John" where emp_id=1
+2021-04-07 21:15:53,544 INFO User query : update Employee set emp_name="John" where emp_id=1
+2021-04-07 21:15:53,544 INFO User query : update Employee set emp_name="John" where emp_id=1
+2021-04-07 21:15:53,544 INFO User query : update Employee set emp_name="John" where emp_id=1
+2021-04-07 21:20:21,384 INFO User query : update Employee set emp_name=john where emp_id=1
+2021-04-07 21:20:21,384 INFO User query : update Employee set emp_name=john where emp_id=1
+2021-04-07 21:20:21,384 INFO User query : update Employee set emp_name=john where emp_id=1
+2021-04-07 21:20:21,384 INFO User query : update Employee set emp_name=john where emp_id=1
+2021-04-07 21:24:25,811 INFO User query : update Employee set emp_name=john where emp_name=jay
+2021-04-07 21:24:25,811 INFO User query : update Employee set emp_name=john where emp_name=jay
+2021-04-07 21:24:25,811 INFO User query : update Employee set emp_name=john where emp_name=jay
+2021-04-07 21:24:25,811 INFO User query : update Employee set emp_name=john where emp_name=jay
+2021-04-07 21:40:33,590 INFO Table name : Tests created successfully
+2021-04-07 21:41:35,057 INFO User query : insert into Tests values (1,"abc","normal")
+2021-04-07 21:41:35,057 INFO User query : insert into Tests values (1,"abc","normal")
+2021-04-07 21:41:35,057 INFO User query : insert into Tests values (1,"abc","normal")
+2021-04-07 21:41:35,057 INFO User query : insert into Tests values (1,"abc","normal")
+2021-04-07 21:41:37,156 INFO 1 row inserted into Tests successfully
+2021-04-07 21:42:52,405 INFO User query : update Tests set type=abnormal where id=1
+2021-04-07 21:42:52,405 INFO User query : update Tests set type=abnormal where id=1
+2021-04-07 21:42:52,406 INFO User query : update Tests set type=abnormal where id=1
+2021-04-07 21:42:52,406 INFO User query : update Tests set type=abnormal where id=1
+2021-04-07 21:48:25,299 INFO User query : update Tests set type=abnormal where id=1
+2021-04-07 21:48:25,299 INFO User query : update Tests set type=abnormal where id=1
+2021-04-07 21:48:25,299 INFO User query : update Tests set type=abnormal where id=1
+2021-04-07 21:48:25,299 INFO User query : update Tests set type=abnormal where id=1
+2021-04-07 21:48:27,364 INFO 1 row updated in Tests successfully
+2021-04-07 21:53:24,426 INFO User query : select * from Employee
+2021-04-07 21:53:24,426 INFO User query : select * from Employee
+2021-04-07 21:53:24,426 INFO User query : select * from Employee
+2021-04-07 21:53:24,426 INFO User query : select * from Employee
+2021-04-07 21:54:25,181 INFO User query : select * from Employee where emp_id=1
+2021-04-07 21:54:25,181 INFO User query : select * from Employee where emp_id=1
+2021-04-07 21:54:25,181 INFO User query : select * from Employee where emp_id=1
+2021-04-07 21:54:25,181 INFO User query : select * from Employee where emp_id=1
+2021-04-07 21:55:05,448 INFO User query : delete from Tests where id=1
+2021-04-07 21:55:05,448 INFO User query : delete from Tests where id=1
+2021-04-07 21:55:05,448 INFO User query : delete from Tests where id=1
+2021-04-07 21:55:05,448 INFO User query : delete from Tests where id=1
+2021-04-07 21:55:07,514 INFO 1 row deleted from Tests successfully
+2021-04-07 21:57:04,167 INFO User query : insert into Employee values (2,"Ram","CS","Senior Analyst")
+2021-04-07 21:57:04,167 INFO User query : insert into Employee values (2,"Ram","CS","Senior Analyst")
+2021-04-07 21:57:04,167 INFO User query : insert into Employee values (2,"Ram","CS","Senior Analyst")
+2021-04-07 21:57:04,167 INFO User query : insert into Employee values (2,"Ram","CS","Senior Analyst")
+2021-04-07 21:57:15,293 INFO User query : select * from Employee
+2021-04-07 21:57:15,293 INFO User query : select * from Employee
+2021-04-07 21:57:15,293 INFO User query : select * from Employee
+2021-04-07 21:57:15,293 INFO User query : select * from Employee
+2021-04-07 21:59:49,873 INFO User query : insert into Employee values (3,Kay,12345678,Professor)
+2021-04-07 21:59:49,873 INFO User query : insert into Employee values (3,Kay,12345678,Professor)
+2021-04-07 22:04:01,206 INFO User query : delete from Employee where emp_id=1
+2021-04-07 22:04:01,206 INFO User query : delete from Employee where emp_id=1
+2021-04-07 22:04:01,206 INFO User query : delete from Employee where emp_id=1
+2021-04-07 22:04:01,206 INFO User query : delete from Employee where emp_id=1
+2021-04-07 22:04:13,289 INFO User query : delete from Employee where emp_id=2
+2021-04-07 22:04:13,289 INFO User query : delete from Employee where emp_id=2
+2021-04-07 22:04:13,289 INFO User query : delete from Employee where emp_id=2
+2021-04-07 22:04:13,289 INFO User query : delete from Employee where emp_id=2
+2021-04-07 22:05:46,011 INFO User query : insert into Employee values (1,Jay,768546756,TA)
+2021-04-07 22:05:46,011 INFO User query : insert into Employee values (1,Jay,768546756,TA)
+2021-04-07 22:05:46,011 INFO User query : insert into Employee values (1,Jay,768546756,TA)
+2021-04-07 22:05:46,011 INFO User query : insert into Employee values (1,Jay,768546756,TA)
+2021-04-07 22:06:04,070 INFO User query : select * from Employee
+2021-04-07 22:06:04,070 INFO User query : select * from Employee
+2021-04-07 22:06:04,070 INFO User query : select * from Employee
+2021-04-07 22:06:04,070 INFO User query : select * from Employee
+2021-04-07 22:15:52,344 INFO User query : insert into Employee values (2,Reshma,99847543,SeniorAnalyst)
+2021-04-07 22:15:52,344 INFO User query : insert into Employee values (2,Reshma,99847543,SeniorAnalyst)
+2021-04-07 22:15:52,345 INFO User query : insert into Employee values (2,Reshma,99847543,SeniorAnalyst)
+2021-04-07 22:15:52,345 INFO User query : insert into Employee values (2,Reshma,99847543,SeniorAnalyst)
+2021-04-07 22:16:12,534 INFO User query : select * from Employee
+2021-04-07 22:16:12,534 INFO User query : select * from Employee
+2021-04-07 22:16:12,534 INFO User query : select * from Employee
+2021-04-07 22:16:12,534 INFO User query : select * from Employee
+2021-04-07 22:17:35,725 INFO User query : update Employee set job_position=TechinicalAnalyst where emp_id=1
+2021-04-07 22:17:35,725 INFO User query : update Employee set job_position=TechinicalAnalyst where emp_id=1
+2021-04-07 22:17:35,726 INFO User query : update Employee set job_position=TechinicalAnalyst where emp_id=1
+2021-04-07 22:17:35,726 INFO User query : update Employee set job_position=TechinicalAnalyst where emp_id=1
+2021-04-07 22:17:53,087 INFO User query : select * from Employee
+2021-04-07 22:17:53,087 INFO User query : select * from Employee
+2021-04-07 22:17:53,088 INFO User query : select * from Employee
+2021-04-07 22:17:53,088 INFO User query : select * from Employee
+2021-04-07 22:19:54,119 INFO User query : select * from Employee
+2021-04-07 22:19:54,119 INFO User query : select * from Employee
+2021-04-07 22:19:54,119 INFO User query : select * from Employee
+2021-04-07 22:19:54,119 INFO User query : select * from Employee
+2021-04-07 22:20:28,505 INFO User query : Update Employee set job_position=TechnicalAnalyst where emp_id=1
+2021-04-07 22:20:28,505 INFO User query : Update Employee set job_position=TechnicalAnalyst where emp_id=1
+2021-04-07 22:20:28,505 INFO User query : Update Employee set job_position=TechnicalAnalyst where emp_id=1
+2021-04-07 22:20:28,505 INFO User query : Update Employee set job_position=TechnicalAnalyst where emp_id=1
+2021-04-07 22:20:39,586 INFO User query : select * from Employee
+2021-04-07 22:20:39,586 INFO User query : select * from Employee
+2021-04-07 22:20:39,586 INFO User query : select * from Employee
+2021-04-07 22:20:39,586 INFO User query : select * from Employee
+2021-04-07 22:21:32,436 INFO User query : insert into Employee values (2,Kim,654485764,TA)
+2021-04-07 22:21:32,436 INFO User query : insert into Employee values (2,Kim,654485764,TA)
+2021-04-07 22:21:32,437 INFO User query : insert into Employee values (2,Kim,654485764,TA)
+2021-04-07 22:21:32,437 INFO User query : insert into Employee values (2,Kim,654485764,TA)
+2021-04-07 22:21:43,388 INFO User query : select * from Employee
+2021-04-07 22:21:43,388 INFO User query : select * from Employee
+2021-04-07 22:21:43,389 INFO User query : select * from Employee
+2021-04-07 22:21:43,389 INFO User query : select * from Employee
+2021-04-07 22:23:01,385 INFO User query : update Employee set emp_name=Koel where emp_id=1
+2021-04-07 22:23:01,385 INFO User query : update Employee set emp_name=Koel where emp_id=1
+2021-04-07 22:23:01,386 INFO User query : update Employee set emp_name=Koel where emp_id=1
+2021-04-07 22:23:01,386 INFO User query : update Employee set emp_name=Koel where emp_id=1
+2021-04-07 22:23:09,800 INFO User query : select * from Employee
+2021-04-07 22:23:09,800 INFO User query : select * from Employee
+2021-04-07 22:23:09,800 INFO User query : select * from Employee
+2021-04-07 22:23:09,800 INFO User query : select * from Employee
+2021-04-07 22:23:33,852 INFO User query : delete from Employee where emp_id=3
+2021-04-07 22:23:33,852 INFO User query : delete from Employee where emp_id=3
+2021-04-07 22:23:33,852 INFO User query : delete from Employee where emp_id=3
+2021-04-07 22:23:33,852 INFO User query : delete from Employee where emp_id=3
+2021-04-07 22:24:08,450 INFO User query : insert into Employee values (3,Jim,687454343,Manager)
+2021-04-07 22:24:08,450 INFO User query : insert into Employee values (3,Jim,687454343,Manager)
+2021-04-07 22:24:08,450 INFO User query : insert into Employee values (3,Jim,687454343,Manager)
+2021-04-07 22:24:08,450 INFO User query : insert into Employee values (3,Jim,687454343,Manager)
+2021-04-07 22:29:45,251 INFO User query : insert into Employee values (4,John,75846468,TA)
+2021-04-07 22:29:45,251 INFO User query : insert into Employee values (4,John,75846468,TA)
+2021-04-07 22:29:45,251 INFO User query : insert into Employee values (4,John,75846468,TA)
+2021-04-07 22:29:45,251 INFO User query : insert into Employee values (4,John,75846468,TA)
+2021-04-07 22:30:08,682 INFO User query : select * from Employee
+2021-04-07 22:30:08,682 INFO User query : select * from Employee
+2021-04-07 22:30:08,682 INFO User query : select * from Employee
+2021-04-07 22:30:08,682 INFO User query : select * from Employee
+2021-04-07 22:32:23,604 INFO User query : select * from Student
+2021-04-07 22:32:23,604 INFO User query : select * from Student
+2021-04-07 22:32:23,604 INFO User query : select * from Student
+2021-04-07 22:32:23,604 INFO User query : select * from Student
+2021-04-07 22:33:17,444 INFO User query : insert into Student values(1,Jack,23,FCS,301)
+2021-04-07 22:33:17,444 INFO User query : insert into Student values(1,Jack,23,FCS,301)
+2021-04-07 22:33:17,444 INFO User query : insert into Student values(1,Jack,23,FCS,301)
+2021-04-07 22:33:17,444 INFO User query : insert into Student values(1,Jack,23,FCS,301)
+2021-04-07 22:33:36,044 INFO User query : insert into Student values (1,Jack,23,FCS,301)
+2021-04-07 22:33:36,044 INFO User query : insert into Student values (1,Jack,23,FCS,301)
+2021-04-07 22:33:36,044 INFO User query : insert into Student values (1,Jack,23,FCS,301)
+2021-04-07 22:33:36,044 INFO User query : insert into Student values (1,Jack,23,FCS,301)
+2021-04-07 22:34:05,933 INFO User query : select * from Employee
+2021-04-07 22:34:05,933 INFO User query : select * from Employee
+2021-04-07 22:34:05,933 INFO User query : select * from Employee
+2021-04-07 22:34:05,933 INFO User query : select * from Employee
+2021-04-07 22:34:32,391 INFO User query : select * from Student
+2021-04-07 22:34:32,391 INFO User query : select * from Student
+2021-04-07 22:34:32,391 INFO User query : select * from Student
+2021-04-07 22:34:32,391 INFO User query : select * from Student
+2021-04-07 22:35:11,936 INFO User query : insert into Student values (1,Kim,23,FCS,324)
+2021-04-07 22:35:11,936 INFO User query : insert into Student values (1,Kim,23,FCS,324)
+2021-04-07 22:35:11,936 INFO User query : insert into Student values (1,Kim,23,FCS,324)
+2021-04-07 22:35:11,936 INFO User query : insert into Student values (1,Kim,23,FCS,324)
+2021-04-07 22:35:49,391 INFO User query : insert into Student values(1,"Jack",23,"FCS",301)
+2021-04-07 22:35:49,391 INFO User query : insert into Student values(1,"Jack",23,"FCS",301)
+2021-04-07 22:35:49,391 INFO User query : insert into Student values(1,"Jack",23,"FCS",301)
+2021-04-07 22:35:49,391 INFO User query : insert into Student values(1,"Jack",23,"FCS",301)
+2021-04-07 22:36:00,994 INFO User query : insert into Student values (1,Jack,23,FCS,301)
+2021-04-07 22:36:00,994 INFO User query : insert into Student values (1,Jack,23,FCS,301)
+2021-04-07 22:36:00,994 INFO User query : insert into Student values (1,Jack,23,FCS,301)
+2021-04-07 22:36:00,994 INFO User query : insert into Student values (1,Jack,23,FCS,301)
+2021-04-07 22:37:55,707 INFO User query : insert into University values (1,Dalhousie,Halifax)
+2021-04-07 22:37:55,707 INFO User query : insert into University values (1,Dalhousie,Halifax)
+2021-04-07 22:37:55,707 INFO User query : insert into University values (1,Dalhousie,Halifax)
+2021-04-07 22:37:55,707 INFO User query : insert into University values (1,Dalhousie,Halifax)
+2021-04-07 22:41:21,431 INFO User query : insert into University values (2,IIT,India)
+2021-04-07 22:41:21,431 INFO User query : insert into University values (2,IIT,India)
+2021-04-07 22:41:21,431 INFO User query : insert into University values (2,IIT,India)
+2021-04-07 22:41:21,431 INFO User query : insert into University values (2,IIT,India)
+2021-04-07 22:41:59,272 INFO User query : select * from University
+2021-04-07 22:41:59,272 INFO User query : select * from University
+2021-04-07 22:41:59,272 INFO User query : select * from University
+2021-04-07 22:41:59,272 INFO User query : select * from University
+2021-04-07 22:44:33,749 INFO User query : update University set uni_name=NIT where uni_id=2
+2021-04-07 22:44:33,749 INFO User query : update University set uni_name=NIT where uni_id=2
+2021-04-07 22:44:33,749 INFO User query : update University set uni_name=NIT where uni_id=2
+2021-04-07 22:44:33,749 INFO User query : update University set uni_name=NIT where uni_id=2
+2021-04-07 22:44:51,893 INFO User query : select * from University
+2021-04-07 22:44:51,893 INFO User query : select * from University
+2021-04-07 22:44:51,893 INFO User query : select * from University
+2021-04-07 22:44:51,893 INFO User query : select * from University
+2021-04-07 22:45:34,002 INFO User query : delete from University where uni_id=2
+2021-04-07 22:45:34,002 INFO User query : delete from University where uni_id=2
+2021-04-07 22:45:34,002 INFO User query : delete from University where uni_id=2
+2021-04-07 22:45:34,002 INFO User query : delete from University where uni_id=2
+2021-04-07 22:45:54,389 INFO User query : select * from University
+2021-04-07 22:45:54,389 INFO User query : select * from University
+2021-04-07 22:45:54,389 INFO User query : select * from University
+2021-04-07 22:45:54,389 INFO User query : select * from University
+2021-04-07 22:48:20,156 INFO User query : insert into University values (2,IIM,India)
+2021-04-07 22:48:20,156 INFO User query : insert into University values (2,IIM,India)
+2021-04-07 22:55:51,387 INFO User query : insert into University values (2,Windsor,Ontario)
+2021-04-07 22:55:51,387 INFO User query : insert into University values (2,Windsor,Ontario)
+2021-04-07 22:56:14,548 INFO User query : select * from University
+2021-04-07 22:56:14,548 INFO User query : select * from University
+2021-04-07 22:56:14,548 INFO User query : select * from University
+2021-04-07 22:56:14,548 INFO User query : select * from University
+2021-04-07 22:56:53,989 INFO User query : insert into University values (3,Windsor,Ontario)
+2021-04-07 22:56:53,989 INFO User query : insert into University values (3,Windsor,Ontario)
+2021-04-07 22:58:10,922 INFO User query : select * from University
+2021-04-07 22:58:10,922 INFO User query : select * from University
+2021-04-07 22:58:10,922 INFO User query : select * from University
+2021-04-07 22:58:10,922 INFO User query : select * from University
+2021-04-07 23:00:11,079 INFO User query : insert into University values (4,Victoria,BC)
+2021-04-07 23:00:11,079 INFO User query : insert into University values (4,Victoria,BC)
+2021-04-07 23:01:09,875 INFO User query : update University set uni_name=NIT where uni_id=2
+2021-04-07 23:01:09,875 INFO User query : update University set uni_name=NIT where uni_id=2
+2021-04-07 23:02:26,455 INFO User query : insert into University values (5,Carleton,ON)
+2021-04-07 23:02:26,455 INFO User query : insert into University values (5,Carleton,ON)
+2021-04-07 23:03:27,264 INFO User query : insert into University values (3,McMaster,ON)
+2021-04-07 23:03:27,264 INFO User query : insert into University values (3,McMaster,ON)
+2021-04-07 23:03:55,074 INFO User query : select * from University
+2021-04-07 23:03:55,074 INFO User query : select * from University
+2021-04-07 23:03:55,074 INFO User query : select * from University
+2021-04-07 23:03:55,074 INFO User query : select * from University
+2021-04-11 20:54:57,860 INFO Table name : Person created successfully
