@@ -1,0 +1,36 @@
+image: java-latest
+
+stages:
+    - build
+    - test
+    - deploy
+build:
+    tags:
+      - ugrad
+    stage: build
+    script:
+      - cd ./Ludo_Game
+      - mvn compile
+
+test:
+    tags:
+      - ugrad
+    stage: test
+    script:
+      - cd ./Ludo_Game
+      - mvn clean test
+
+deploy-test:
+    stage: deploy
+    tags:
+      - dalfcs_gitlab_docker_ci
+    image: ruby:latest
+    script:
+      - cd ./Ludo_Game
+      - apt-get update -qy
+      - apt-get install -y ruby-dev
+      - gem install dpl
+      - dpl --provider=heroku --app=$HEROKU_APP_NAME --api-key=$HEROKU_API_KEY
+    only:
+      - develop
+        
